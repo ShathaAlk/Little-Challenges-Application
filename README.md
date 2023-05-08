@@ -1,6 +1,15 @@
 # Little Challenges Application
 <b>Little Challenges Application</b> is a Flutter mobile app to write tasks, measure performance, and collect points with a delightful interactive design.
 
+<b>- The intro: </b>
+</br>
+
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/58560808/236742748-3ee6a93f-82b2-4af5-9ae0-4321bfca65a9.gif" width="230" height="440">
+</div>
+</br>
+</br>
+
 <b>- Add a new task: </b></br>
 </br>
 
