@@ -89,4 +89,8 @@
     <td valign="top"><img src="https://user-images.githubusercontent.com/58560808/236610843-8466911b-b640-4e5f-9996-234b84235468.png" width="230" height="440"></td>
   </tr>
  </table>
-</br>
+</br></br>
+
+<b>- Used Software</b>
+- Flutter
+- Figma
